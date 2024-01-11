@@ -1,1 +1,1 @@
-Rosie is a build tool to Rivet plugins
+Rosie is a build tool for Rivet plugins
